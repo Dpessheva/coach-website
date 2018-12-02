@@ -1,0 +1,28 @@
+
+title: John Smith
+email: john-smith@gmail.com
+description: Personal life coach
+baseurl: "/coach-website" 
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+destination: "docs"
+
+twitter_username: John Smith
+github_username:  John Smith
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .gitignore
+  - scss
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - .vscode
