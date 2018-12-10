@@ -1,0 +1,10 @@
+$baseurl: "{{ site.baseurl }}";
+
+.site {
+	padding: var(--spacing-site, 2em);
+}
+
+.site-content{
+    background-image: url('#{$baseurl}/images/photo-1.jpg');
+    background: red;
+}
