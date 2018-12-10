@@ -5,6 +5,31 @@ $baseurl: "{{ site.baseurl }}";
 }
 
 .site-content{
-    background-image: url('#{$baseurl}/images/photo-1.jpg');
-    background: red;
+    margin-top: 4rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+.site-content p{
+    font-size: 2rem;
+    padding-bottom: 0;
+    
+}
+.site-content h1{
+    font-size: 5rem;
+    letter-spacing: 0.5rem;
+}
+.button.fill {
+    text-align: center;
+    background: black;
+    color: #FFF;
+    border: none;
+    padding: 0.5em 4em 1em;
+    border-radius: 0.5rem;
+    margin-bottom: 15rem;
+}
+
+.button.fill:hover {
+    color: #333;
+    background: #FFF;
+    border: 2px solid black;
 }

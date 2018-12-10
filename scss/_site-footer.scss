@@ -1,7 +1,21 @@
 .site-footer {
+    display: flex;
+    align-items: baseline;
     background:rgb(87, 187, 191);
     color: rgb(255, 255, 255);
     padding: 1rem;
     margin-top: auto;
 }
 
+.icons{
+    display: flex;
+    padding-left:  52em;
+}
+.site-footer li {
+    list-style: none;
+    padding: 0 1em;
+}
+.site-footer i {
+    font-size: 1rem;
+    color: #fff;
+}
