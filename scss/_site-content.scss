@@ -1,22 +1,16 @@
-$baseurl: "{{ site.baseurl }}";
-
-// .site {
-// 	padding: var(--spacing-site, 2em);
-// }
-
 .site-content{
-    margin-top: 4rem;
-    padding-top: 2rem;
     text-align: center;
 }
-.site-content p{
+.home p{
     font-size: 2rem;
     padding-bottom: 0;
+    padding-top: 4rem;
     
 }
-.site-content h1{
+.home h1{
     font-size: 5rem;
     letter-spacing: 0.5rem;
+    padding-top: 4rem;
 }
 .button.fill {
     text-align: center;
@@ -32,4 +26,19 @@ $baseurl: "{{ site.baseurl }}";
     color: #333;
     background: #FFF;
     border: 2px solid black;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+article{
+    width: 50%;
+    margin: auto;
+}
+article img{
+    width: 100%;
+}
+.about p{
+    text-align: center;
 }

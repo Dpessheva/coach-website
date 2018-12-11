@@ -1,9 +1,11 @@
 
-.site{
+.home{
 	background-image: linear-gradient(rgba(121, 204,230,.4),rgba(121, 204,230,.4)),url(../images/photo-3.jpg);
 	background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+	background-size: cover;
+	// background-attachment: fixed;
+	
 }
 .site-branding {
 	letter-spacing: 0.5rem;

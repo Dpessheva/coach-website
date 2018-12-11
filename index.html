@@ -1,8 +1,30 @@
 ---
 layout: site
 ---
+<section class="home" >
+	<p>Ambition is the first step towards</p>
+	<h1>Success</h1>
+	<form action="{{ site.baseurl }}/services/">
+		<input type="submit" class="button fill submit" value="Book now">
+	</form>
+</section>
+<section class="about">
+	<article>
+	<h2>About me</h2>
+	<p>
+		I'm John Smith - Confidence Coach  on a Mission. I'm highly committed to living my life to the fullest and becoming the best version of myself so I can die a happy woman. I don't believe in regrets, I believe in taking life into my owns hands and turning it into a frikkin' masterpiece. Helping you do the same is my greatest joy!
+	</p>
+	<form action="{{ site.baseurl }}/about/">
+		<input type="submit" class="button fill submit" value="Read more">
+	</form>
+</article>
+<article>
+	<img src="{{ site.baseurl }}/images/photo-1.jpg">
+</article>
+</section>
 
-<ul>
+
+<ul class="listing posts">
 	{% for post in site.posts %}
 	<li>
 		<a href="{{ site.baseurl }}{{ post.url }}">
