@@ -32,13 +32,47 @@
     justify-content: center;
     text-align: center;
 }
-article{
+.about article{
     width: 50%;
     margin: auto;
+    height: auto;
 }
-article img{
+#image img{
     width: 100%;
 }
-.about p{
-    text-align: center;
+#info p{
+    text-align: justify;
+    padding-left: 2rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
 }
+.how-to-help{
+    display: flex;
+    max-width: 80%;
+    margin: auto;
+     justify-content: center;
+    text-align: center;
+    background: rgb(186, 227, 224);
+
+}
+.how-to-help article{
+    width: 35%;
+    margin: auto;
+    height: auto;
+}
+#right{
+
+    border-right: 2px solid black;
+}
+#left-part{
+    
+    padding-left: 2rem;
+//     padding-right: 7rem;
+//     padding-bottom: 1rem;
+//     margin-bottom: 2rem;
+     margin-top: 18rem;
+
+  
+ }
