@@ -1,0 +1,66 @@
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+.cards h2 {
+  color: #000;
+  margin: 2rem 0 .5rem;
+  font-size: 1.25rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  
+}
+
+/***************************           Cards            *******************************/
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
+  grid-auto-rows: minmax(200px, auto);
+  grid-gap: var(--spacing-site);
+  padding-bottom: var(--spacing-site);
+}
+
+.card {
+  border: 2px solid #e7e7e7;
+  border-radius: 4px;
+  padding: .5rem;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  color: #5d5e5e;
+}
+
+.thumbnail img {
+  fill: #c7c4c4;
+  height: 135px;
+  opacity: .25;
+  padding: 1.5rem;
+}
+
+.card-content {
+    font-size: .75rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+i{
+    font-size: 1.5rem;
+}
+
+@media screen and (min-width: 400px) {
+    grid-gap: 1rem;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media screen and (min-width: 800px) {
+    grid-gap: 2rem;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  @media screen and (min-width: 1024px) {
+    grid-gap: 2rem;
+    grid-template-columns: repeat(4, 1fr);
+  }
