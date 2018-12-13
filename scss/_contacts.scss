@@ -1,0 +1,43 @@
+#contacts-info{
+    display: flex;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    background: linear-gradient(to right, rgba(226,226,226,1) 0%, rgba(219,219,219,1) 50%, rgba(209,209,209,1) 51%, rgba(254,254,254,1) 100%);
+}
+article.adress-info{
+    width: 33%;
+    margin: auto;
+}
+
+article.container{
+    width: 50%;
+    margin: auto;
+    
+}
+
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+label{
+    color: grey;
+    font-weight: bold;
+}
+input[type=submit]:hover {
+    background-color: white;
+    color: black;
+}
