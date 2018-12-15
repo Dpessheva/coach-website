@@ -1,13 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/coach-website/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/coach-website/" rel="alternate" type="text/html" /><updated>2018-12-14T00:32:13+02:00</updated><id>http://localhost:4000/coach-website/feed.xml</id><title type="html">John Smith</title><subtitle>Personal life coach</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/coach-website/jekyll/update/2018/12/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-12-02T22:10:19+02:00</published><updated>2018-12-02T22:10:19+02:00</updated><id>http://localhost:4000/coach-website/jekyll/update/2018/12/02/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/coach-website/jekyll/update/2018/12/02/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/coach-website/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/coach-website/" rel="alternate" type="text/html" /><updated>2018-12-15T20:41:53+02:00</updated><id>http://localhost:4000/coach-website/feed.xml</id><title type="html">John Smith</title><subtitle>Personal life coach</subtitle><entry><title type="html">Being Yourself Means Constant Change</title><link href="http://localhost:4000/coach-website/2018/12/08/10-being-yourself-means-constant-change.html" rel="alternate" type="text/html" title="Being Yourself Means Constant Change" /><published>2018-12-08T22:10:19+02:00</published><updated>2018-12-08T22:10:19+02:00</updated><id>http://localhost:4000/coach-website/2018/12/08/10-being-yourself-means-constant-change</id><content type="html" xml:base="http://localhost:4000/coach-website/2018/12/08/10-being-yourself-means-constant-change.html">&lt;p&gt;We are human beings; we grow, we evolve, we change. And so, it’s very normal that when you’re dedicated to living your best life, you change ALL THE TIME.
+&lt;/p&gt;
+&lt;p&gt;
+Many people see change as something bad; as if you “don’t know what you want.”
+&lt;/p&gt;
+&lt;p&gt;
+I know exactly what I want. That’s why I change.
+&lt;/p&gt;
+&lt;p&gt;
+I’ve gone from dreaming of becoming an English teacher at secondary school in Holland to fulfilling my dream of teaching English in Italy. I’ve gone from teaching English in Italy to pursuing my passion for writing and becoming a collaborator for one of the biggest  blog on Italy. I’ve gone from being a writer to starting my studies all over again and deciding to become a life coach.
+&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;
+I’ve gone from living in Florence for six years to wanting to try out life in Berlin and returning to Florence after a month – and turning them into eight. I’ve gone from rediscovering Florence and going out every night to living on top of a hill in Tuscany, in the middle of nowhere, spending my nights in at home with my dog.
+&lt;/p&gt;
+&lt;p&gt;
+I change because I’m committed to fulfilling my dreams, all of them. Once I’ve fulfilled one, another one comes up. I’m devoted to my own well-being and happiness and therefore constantly ask myself:
+&lt;/p&gt;
+&lt;p&gt;
+“What do I want?”
+&lt;/p&gt;
+&lt;p&gt;
+I know myself. I know what my values are. I know what makes me happy. And so I live according to those desires.
+&lt;/p&gt;
+&lt;p&gt;
+It’s not easy – at all. It means taking risks, starting over again, dealing with the positive stress of change, facing unforeseen challenges and my family wondering what I’ve set my mind to this time round – and especially why.
+&lt;/p&gt;
+&lt;p&gt;
+I remember my mum saying: “Sophie, you’re going too fast. People can’t keep up.”
+&lt;/p&gt;
+&lt;p&gt;
+But I can. And that’s what counts.
+&lt;/p&gt;
+&lt;p&gt;
+And then when they see me, they see I’m happy – every time. They’ve stopped asking questions and they trust that I’ll be fine because they know I know myself and that, whatever I do, I’m always true to myself.
+&lt;/p&gt;
+&lt;p&gt;
+And that means change. Constant change.
+&lt;/p&gt;</content><author><name></name></author><summary type="html">We are human beings; we grow, we evolve, we change. And so, it’s very normal that when you’re dedicated to living your best life, you change ALL THE TIME. Many people see change as something bad; as if you “don’t know what you want.” I know exactly what I want. That’s why I change. I’ve gone from dreaming of becoming an English teacher at secondary school in Holland to fulfilling my dream of teaching English in Italy. I’ve gone from teaching English in Italy to pursuing my passion for writing and becoming a collaborator for one of the biggest blog on Italy. I’ve gone from being a writer to starting my studies all over again and deciding to become a life coach.</summary></entry></feed>

@@ -1,11 +1,7 @@
 
 .home{	
-	background-image: linear-gradient(rgba(121, 204,230,.4),rgba(121, 204,230,.4)),url(../images/photo-1.jpg);
+	@include background-image("photo-1.jpg", center, cover); 
 	background-repeat: no-repeat;
-    background-position: center;
-	background-size: cover;
-	
-	
 }
 .site-branding {
 	letter-spacing: 0.5rem;

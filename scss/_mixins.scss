@@ -1,14 +1,3 @@
-:root {
-	--font-size-initial: 12px;
-	--font-size-lv2: 14px;
-	--font-size-lv3: 16px;
-	--font-size-lv4: 18px;
-
-	--spacing-site: 1rem;
-
-	--color-text-main: #000;
-}
-
 $path--rel: "../images"; 
 
 @mixin background-image($img, $background-position, $background-size) {
