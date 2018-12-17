@@ -20,8 +20,13 @@ a {
   grid-auto-rows: minmax(200px, auto);
   grid-gap: var(--spacing-site);
   padding-bottom: var(--spacing-site);
+  margin: var(--main-margin);
+  
 }
-
+.card:hover{
+  animation: shadow-drop-center 0.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+ 
+}
 .card {
   border: 2px solid #e7e7e7;
   border-radius: 4px;
