@@ -1,12 +1,8 @@
 @import '../fontawesome/css/all.css';
-
- @import 'variables';
+@import 'variables';
 @import 'reset';
- @import 'typography';
-
-
+@import 'typography';
 @import 'navigation';
-
 @import 'site-header';
 @import 'site-content';
 @import 'site-footer';
@@ -17,5 +13,4 @@
 @import 'blog';
 @import 'about';
 @import 'mixins';
-
-
+@import 'responsive';

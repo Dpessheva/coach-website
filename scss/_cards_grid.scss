@@ -34,6 +34,7 @@ a {
   box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15);
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
   position: relative;
   color: #5d5e5e;
 }
@@ -55,17 +56,3 @@ i{
     font-size: 1.5rem;
 }
 
-@media screen and (min-width: 400px) {
-    grid-gap: 1rem;
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  @media screen and (min-width: 800px) {
-    grid-gap: 2rem;
-    grid-template-columns: repeat(3, 1fr);
-  }
-
-  @media screen and (min-width: 1024px) {
-    grid-gap: 2rem;
-    grid-template-columns: repeat(4, 1fr);
-  }
