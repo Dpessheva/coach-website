@@ -31,7 +31,6 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    flex-direction: row;
     flex-wrap: wrap;
     
 }
@@ -50,14 +49,16 @@
 }
 #info p{
     text-align: justify;
-     padding-left: 7rem;
+    padding-left: 7rem;
     padding-right: 7rem;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
+    
 }
 #help{
     height: 300px;
     display: flex;
+    flex-wrap: wrap;
     margin: auto;
     justify-content: center;
     text-align: center;
