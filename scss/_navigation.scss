@@ -5,16 +5,16 @@
     align-content: center;
     flex-wrap: wrap;
 }
-.navigation{
-    align-self: center;
+
+.navigation {
+     align-self: center;
     align-items: center;
-	justify-content: center;
+    justify-content: center;
 }
 
 .navigation ul {
     margin: 0;
     padding: 2rem 0;
-    
 }
 
 .navigation li {
@@ -22,75 +22,76 @@
     list-style: none outside;
     padding: 1em 0;
 }
-.site-header nav.main > ul > li{
-    padding: 0 0.5rem 0 0;
-}
+
 .navigation a {
     display: block;
     padding: 0.5rem 1rem;
     color: rgb(19, 26, 19);
-	text-decoration: none;
+    text-decoration: none;
+}
+.navigation a:before{
+	margin-right: 1em;
+}
+.site-header nav.main>ul>li {
+    padding: 0 0.5rem 0 0;
 }
 
-.site-header nav li a:focus, .site-header nav li a:hover {
+.site-header nav li a:focus,
+.site-header nav li a:hover {
     color: #57BBBF;
     transition: color 0.4s ease 0s;
 }
 
 #main-nav-toggle,
-#toggle{
+#toggle {
     display: none;
 }
+
+
 #toggle {
-	position: relative;
-	flex: 1 0 100%;
-	align-items: center;
-	align-content: center;
-	justify-content: center;
-	padding: 1rem 0;
+    position: relative;
+    flex: 1 0 100%;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 1rem 0;
 }
+
 #toggle:before {
-	display: block;
-	content: '';
-	position: relative;
-	padding-right: 0.3rem;
-	font-weight: bold;
+    display: block;
+    content: '';
+    position: relative;
+    padding-right: 0.3rem;
+    font-weight: bold;
 }
 
 @media screen and (max-width: 800px) {
-
-	#toggle {
-		display: flex;
-		margin: 0 auto;
-	}
-
-	nav.main {
-		display: none;
-		border-top: 2px solid #000;
-	}
-
-	nav.main ul li {
-		padding-top: 0.5rem;
-	}
-
-	#main-nav-toggle:checked + .site-header .navigation {
-		display: flex;
-		flex: 1 0 100%;
-	}
-
-	#main-nav-toggle:checked + header #toggle:before {
-		content: 'X';
-	}
-
+    #toggle {
+        display: flex;
+        margin: 0 auto;
+    }
+    nav.main {
+        display: none;
+        border-top: 2px solid #000;
+    }
+    nav.main ul li {
+        padding-top: 0.5rem;
+    }
+    #main-nav-toggle:checked+.site-header .navigation {
+        display: flex;
+        flex: 1 0 100%;
+    }
+    #main-nav-toggle:checked+header #toggle:before {
+        content: 'X';
+    }
 }
-@media screen and (min-width: 800px) {
 
-	nav.main ul {
+@media screen and (min-width: 800px) {
+    nav.main ul {
         display: flex;
         text-align: center;
-	}
-
-	nav.main ul li:hover > ul {
-		display: block;
-	}
+    }
+    nav.main ul li:hover>ul {
+        display: block;
+    }
 }
