@@ -76,6 +76,7 @@ li {
 	}
 	#left-part p {
 		 padding-bottom:0 ;
+		 text-align: justify;
 	}
 	.cards{
 		grid-template-columns: repeat(auto-fill,minmax(200px,1fr)) ;
@@ -148,6 +149,9 @@ li {
 	#info p{
 		flex: 1 1 auto;
 		padding: 0;
+	}
+	#left-part {
+		padding-top: 6rem;
 	}
 	.career article, .personal article {
 		width: 90%;
